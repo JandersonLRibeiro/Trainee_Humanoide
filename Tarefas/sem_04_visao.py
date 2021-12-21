@@ -16,7 +16,7 @@ cap.release()
 cv2.destroyAllWindows()
 """
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(2, cv2.CAP_V4L2)
 
 while(1):
     _, frame = cap.read()

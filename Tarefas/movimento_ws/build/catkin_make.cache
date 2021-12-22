@@ -1,0 +1,2 @@
+beginner_tutorials:movement_general:movement_week_4:sem_02:sem_03
+-DCATKIN_DEVEL_PREFIX=/home/janderson/movimento_ws/devel -DCMAKE_INSTALL_PREFIX=/home/janderson/movimento_ws/install -G Unix Makefiles

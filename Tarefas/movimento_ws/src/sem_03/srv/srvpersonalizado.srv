@@ -1,0 +1,5 @@
+int32[20] id
+float32[20] position
+bool[20] torque
+---
+bool[20] engine_off

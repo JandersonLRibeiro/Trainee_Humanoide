@@ -1,0 +1,4 @@
+int16[20] id
+bool[20] torque
+---
+string comando

@@ -1,0 +1,8 @@
+prefix=/home/janderson/movimento_ws/devel
+
+Name: movement_week_4
+Description: Description of movement_week_4
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
